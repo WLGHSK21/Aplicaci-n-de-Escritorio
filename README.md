@@ -1,2 +1,2 @@
-# Aplicaci-n-de-Escritorio
+# Aplicacion-de-Escritorio
 Proyecto Final
